@@ -1,0 +1,1 @@
+This project is a simple To Do web application built using HTML, CSS, and JavaScript. It allows users to create, manage, and mark tasks as completed. The app features a clean and intuitive user interface, making it easy to organize tasks for the day. Users can add new tasks, mark them as done, and delete them as needed.
